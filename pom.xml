@@ -3,7 +3,7 @@
     <groupId>com.enterprise.ecommerce</groupId>
     <artifactId>ecommerce-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
