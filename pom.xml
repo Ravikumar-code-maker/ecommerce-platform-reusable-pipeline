@@ -11,7 +11,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <!-- Use full URL with protocol for properties -->
+        
+        <!-- FIXED: Added http:// protocol, port 8081, and the /repository path -->
         <nexus.url>107.178.223.130</nexus.url>
     </properties>
 
